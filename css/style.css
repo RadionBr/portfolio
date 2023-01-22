@@ -123,7 +123,7 @@ fieldset {
 }
 
 .pink-color-bg {
-    background-color: #f7639a !important;
+    background-color: #ff2020;
 }
 
 .section-space-padding {
@@ -279,14 +279,14 @@ fieldset {
     position: absolute;
     top: 40%;
     left: 40%;
-    background-color: #4c9cef;
+    background-color: #13304d;
     animation: squaremove 1s ease-in-out infinite;
     -webkit-animation: squaremove 1s ease-in-out infinite;
 }
 
 .preloader:after {
     bottom: 0px;
-    background-color: #f7639a;
+    background-color: #ff2020;
     animation-delay: 0.3s;
 }
 
@@ -363,7 +363,7 @@ tr>td:nth-child(1) {
 tr>td:nth-child(2) {
     font-weight: 500;
     color: #ffffff;
-    background: #4c9cef;
+    background: #13304d;
 }
 
 .header-top-area {
@@ -388,7 +388,7 @@ tr>td:nth-child(2) {
     letter-spacing: 6px;
     font-weight: 600;
     font-size: 14px;
-    border-bottom: 4px solid #f7639a;
+    border-bottom: 4px solid #ff2020;
     width: 92px;
 }
 
@@ -425,7 +425,7 @@ tr>td:nth-child(2) {
 .navigation-background {
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
-    background: #4c9cef;
+    background: #13304d;
 }
 
 .navigation-background .logo {
@@ -473,7 +473,7 @@ tr>td:nth-child(2) {
     position: absolute;
     left: -60px;
     color: #fff;
-    background: #4c9cef;
+    background: #13304d;
     padding-top: 25px;
     box-shadow: -5px 6px 4px 0px rgba(90, 91, 95, 0.3);
 }
