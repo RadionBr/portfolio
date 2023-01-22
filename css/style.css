@@ -326,6 +326,13 @@ fieldset {
 
 /* Home Section and Navigation Menu */
 
+.cdh {
+    width: 30%;
+    position: absolute;
+    left: 135px;
+    margin-top: -139px;
+}
+
 .home-section {
     background: #f1f1f1;
     padding-top: 60px;
