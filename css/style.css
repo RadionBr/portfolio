@@ -56,12 +56,12 @@ body {
 }
 
 ::selection {
-    background-color: #f7639a;
+    background-color: #13304d;
     color: #ffffff;
 }
 
 ::-moz-selection {
-    background-color: #f7639a;
+    background-color: #13304d;
     color: #ffffff;
 }
 
@@ -160,7 +160,7 @@ fieldset {
 }
 
 .divider>i {
-    color: #f7639a;
+    color: #13304d;
     font-size: 21px;
 }
 
@@ -240,7 +240,7 @@ fieldset {
 .button-style-color-2:active,
 .button-style-color-2:focus {
     color: #ffffff;
-    background: #f7639a !important;
+    background: #13304d !important;
 }
 
 .button-style-dark {
@@ -886,12 +886,12 @@ ul.portfolio li.active {
     width: 65px;
     height: 65px;
     line-height: 60px;
-    background-color: #4c9cef;
+    background-color: #13304d;
     transition: all 0.3s ease-in-out;
 }
 
 .owl-theme .owl-controls .owl-buttons div:hover {
-    background-color: #f7639a;
+    background-color: #4c9cef;
 }
 
 .owl-prev,
@@ -1026,8 +1026,8 @@ ul.portfolio li.active {
     box-shadow: -2px 40px 34px -24px rgba(0, 0, 0, 0.2);
     border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
     border: solid 7px #4c9cef;
-    border-left-color: #f7639a;
-    border-right-color: #f7639a;
+    border-left-color: #13304d;
+    border-right-color: #13304d;
 }
 
 .contact-us-detail {
@@ -1041,7 +1041,7 @@ ul.portfolio li.active {
 }
 
 .contact-us-detail:hover {
-    background-color: #f7639a;
+    background-color: #13304d;
 }
 
 .contact-us-detail a {
