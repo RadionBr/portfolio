@@ -412,7 +412,7 @@ tr>td:nth-child(2) {
 
 .navigation-menu .navbar-nav li a:hover {
     background: none;
-    color: #f7639a;
+    color: #ff2020;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -420,7 +420,7 @@ tr>td:nth-child(2) {
 .nav li a:focus,
 .nav li a:hover {
     background: none;
-    color: #4c9cef;
+    color: #ff2020;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -795,7 +795,7 @@ ul.portfolio li.active {
     opacity: 0;
     left: 0%;
     right: 0%;
-    background-color: #f7639a;
+    background-color: #ff2020;
     width: 70px;
     height: 70px;
     border-radius: 50%;
@@ -892,7 +892,7 @@ ul.portfolio li.active {
 }
 
 .owl-theme .owl-controls .owl-buttons div:hover {
-    background-color: #4c9cef;
+    background-color: #ff2020;
 }
 
 .owl-prev,
