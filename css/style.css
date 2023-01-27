@@ -1205,7 +1205,9 @@ ul.portfolio li.active {
 }
 
 .footer-section p {
-    font-size: 14px;
+    font-size: 15px;
+    color: #fff;
+    margin-left: 158px;
 }
 
 
@@ -1843,3 +1845,10 @@ ul.portfolio li.active {
 .navbar-right {
     margin-right: 77px;
 }
+
+/*текст на футере*/
+
+#conttext p {
+    color: #fff;
+}
+
