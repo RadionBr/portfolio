@@ -1,0 +1,30 @@
+.field {
+    position: relative;
+    border: 5px solid black;
+    width: 600px;
+    height: 600px;
+    margin: 50px auto;
+    background-color: #ff2020;
+}
+
+.cell {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 700;
+
+
+    transition: all 0.5s;
+
+    box-sizing: border-box;
+    border: 3px solid #476e95;
+    width: 25%;
+    height: 25%;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 90px;
+    text-align: center;
+    color: #ff2020;
+    background-color: #13304d;
+
+}
