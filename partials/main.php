@@ -279,7 +279,7 @@
                               <div class="divider dark">
                                   <i class="icon-energy"></i>
                               </div>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                              <p>Write to email or telegram @radionbr</p>
                           </div>
                       </div>
                   </div>
@@ -342,7 +342,7 @@
                               <div class="divider dark">
                                   <i class="icon-envelope-letter"></i>
                               </div>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                              <p>Write to email or telegram @radionbr</p>
                           </div>
                       </div>
                   </div>
